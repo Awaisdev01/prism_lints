@@ -1,5 +1,9 @@
 include: package:lints/recommended.yaml
 
+linter:
+  rules:
+    public_member_api_docs: true
+
 analyzer:
   language:
     strict-casts: true
@@ -7,6 +11,7 @@ analyzer:
     strict-raw-types: true
   errors:
     todo: ignore
+    public_member_api_docs: warning
   exclude:
     # The example is a fixture that deliberately violates every rule, so it must
     # not be analysed here: `dart analyze` would report the violations this

@@ -4,9 +4,9 @@ description: >-
   durations and colours that duplicate a design token, so an app cannot drift
   away from the system it installed.
 version: 0.1.0
-homepage: https://github.com/awaisdev5765/prism_lints
-repository: https://github.com/awaisdev5765/prism_lints
-issue_tracker: https://github.com/awaisdev5765/prism_lints/issues
+homepage: https://github.com/Awaisdev01/prism_lints
+repository: https://github.com/Awaisdev01/prism_lints
+issue_tracker: https://github.com/Awaisdev01/prism_lints/issues
 topics:
   - lints
   - design-system
